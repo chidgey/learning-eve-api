@@ -50,7 +50,7 @@ git init
 git add -A
 git commit -m 'Added my project'
 git remote add origin git@github.com:[YOUR GITHUB ACCOUNT]/my-new-project.git
-git push -u -f origin master
+git push -u -f origin main
 ```
 For a better walkthrough all the steps see this [digital ocean walkthrough.](https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github)
 
