@@ -6,6 +6,7 @@ theme = "resume-A4"
 
 [params]
 useFontAwesome = true
+custom_js = ["js/custom.js"]
 avatar = "avatar.jpg"
 bib_style = "IEEE" # IEEE, APA, else
 
